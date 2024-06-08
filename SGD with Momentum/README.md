@@ -22,4 +22,4 @@ The `sgd_momentum` function performs one update step using SGD with Momentum.
 
 ## Equation 
 
-Vt = B*Vt-1 + (1-B)&theta
+![SGD with Momentum](SGD with Momentum/Momentum.png)

@@ -11,6 +11,9 @@ The AdaGrad optimizer is designed to handle sparse data and varying learning rat
 adjusted_lr = lr / (np.sqrt(historical_gradients[key]) + epsilon)
 updated_params[key] = params[key] - adjusted_lr * grads[key]
 
+![AdaGrad](AdaGrad/AdaGrad.png)
+
+
 ## Features
 
 - **Adaptive Learning Rate**: Adjusts the learning rate based on the historical gradients, which helps in better convergence.

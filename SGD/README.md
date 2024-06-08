@@ -7,6 +7,9 @@ Stochastic Gradient Descent (SGD) is an optimization algorithm commonly used for
 
 param =param - learning_rate * grad
 
+![SGD](SGD/SGD.png)
+
+
 
 ## Features
 - Simplicity: SGD is straightforward and easy to implement.
