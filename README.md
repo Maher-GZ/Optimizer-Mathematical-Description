@@ -19,12 +19,6 @@ The repository is structured as follows:
 - Mathematical Description: See `AdaGrad/description.md`
 - Implementation: See `AdaGrad/adagrad.py`
 
-### Adam
-
-**Description:** The Adam optimizer combines the advantages of two other extensions of stochastic gradient descent. Specifically, it keeps an exponentially decaying average of past gradients (like momentum) and past squared gradients (like RMSprop).
-
-- Mathematical Description: See `Adam/description.md`
-- Implementation: See `Adam/adam.py`
 
 ### SGD (Stochastic Gradient Descent)
 
@@ -39,6 +33,13 @@ The repository is structured as follows:
 
 - Mathematical Description: See `SGD_Momentum/description.md`
 - Implementation: See `SGD_Momentum/sgd_momentum.py`
+
+### Adam
+
+**Description:** The Adam optimizer combines the advantages of two other extensions of stochastic gradient descent. Specifically, it keeps an exponentially decaying average of past gradients (like momentum) and past squared gradients (like RMSprop).
+
+- Mathematical Description: See `Adam/description.md`
+- Implementation: See `Adam/adam.py`
 
 ### RMSprop
 
@@ -55,13 +56,9 @@ Each subfolder contains a `README.md` file with specific instructions on how to 
 
 Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request. Ensure that your contributions are well-documented and tested.
 
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact the repository maintainer.
+If you have any questions or suggestions, please feel free to contact me.
 
 ---
 
