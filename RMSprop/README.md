@@ -8,7 +8,7 @@ RMSProp (Root Mean Square Propagation) is an adaptive learning rate optimization
 
 The RMSProp optimizer works as follows:
 
-theta = theta - (alpha * grad) / (np.sqrt(E_g2) + epsilon)
+![RMS](RMSprop/RMSprop.webp)
 
 ### Key Steps
 
