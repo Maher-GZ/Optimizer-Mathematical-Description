@@ -31,5 +31,3 @@ SGD can be used in various machine learning and deep learning frameworks, includ
 - PyTorch SGD optimizer documentation: [torch.optim.SGD](https://pytorch.org/docs/stable/generated/torch.optim.SGD.html)
 - scikit-learn SGD optimizer documentation: [sklearn.linear_model.SGDRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html)
 
-## License
-This implementation of SGD optimizer is provided under the MIT license. See the [LICENSE](LICENSE) file for details.
